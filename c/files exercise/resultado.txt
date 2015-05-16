@@ -1,0 +1,4 @@
+numero de linhas: ................. 50
+numero de caracteres: ............. 256
+numero de caracteres em branco: ... 69
+numero de caracteres nao branco: .. 187
